@@ -7,6 +7,8 @@ namespace Brancing_Practice
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Who wants pizza?!");
+            Console.WriteLine("Git's pritty neet.");
         }
     }
 }
